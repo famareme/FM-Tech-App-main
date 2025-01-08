@@ -1,5 +1,5 @@
 {
-  "name": "mon-app",
+  "name": "fm-tech-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +19,7 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^4.2.4"
   },
-  "homepage": "http://www.fm-tech.ca",
+  "homepage": "https://www.fm-tech.ca/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
