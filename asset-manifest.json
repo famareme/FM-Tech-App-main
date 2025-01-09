@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15f8f510.css",
+    "main.js": "/static/js/main.bbca0880.js",
+    "static/media/banner.jpg": "/static/media/banner.e9172e856c024afde961.jpg",
+    "static/media/development.jpg": "/static/media/development.1e13a0908c5e5e859682.jpg",
+    "static/media/uikit.jpg": "/static/media/uikit.dcaa4550a056d8767a16.jpg",
+    "static/media/service.jpg": "/static/media/service.a4f6fe5f96266942e211.jpg",
+    "static/media/maintenance.png": "/static/media/maintenance.a9ee5af04a07b914ac3c.png",
+    "static/media/desjardins.png": "/static/media/desjardins.c974419a856dad465d07.png",
+    "static/media/ciena.png": "/static/media/ciena.994779a25c83ac2ff2f5.png",
+    "static/media/Logo-FM-Tech.png": "/static/media/Logo-FM-Tech.c4d59901edb14090d723.png",
+    "static/media/SNC-Lavalin.png": "/static/media/SNC-Lavalin.aa11446d59f4fa588809.png",
+    "static/media/videotron.jpg": "/static/media/videotron.e5a8cfefeaefae910c28.jpg",
+    "index.html": "/index.html",
+    "main.15f8f510.css.map": "/static/css/main.15f8f510.css.map",
+    "main.bbca0880.js.map": "/static/js/main.bbca0880.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15f8f510.css",
+    "static/js/main.bbca0880.js"
+  ]
+}
