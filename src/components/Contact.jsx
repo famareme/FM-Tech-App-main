@@ -41,13 +41,13 @@ const Contact = () => {
   return (
     <section className="contact" id='contact'>
        <Container>
-        <h1>Contact</h1>
+       <h3 className='display-3 text-center mb-5'>Contact</h3>
         <Row xs={2} className="p-4">
           <Col> 
           <h3 className="display-4">Prenez contact avec nous pour votre prochaine expérience</h3>
-          <p>Si vous avez des questions, des idées ou des projets, n'hésitez pas à nous contacter par PING, Nous sommes toujours 
-            ouvert à la discussion. Vous pouvez nous contacter via le formulaire de contact ou simplement cliquer sur l'icône de médias
-             sociaux ou juste passer un coup de fil. </p>
+          <p>Si vous avez des questions, des idées ou des projets, n'hésitez pas à nous contacter par   PING,   Nous   sommes   toujours
+          disponibles   pour   vous   accompagner   dès   les balbutiements de vos projets. Vous pouvez nous contacter grâce au 
+          formulaire de contact ou  simplement cliquer  sur l'icône de  médias sociaux ou  juste passer  un coup de file. </p>
              <ul class="list-unstyled">
                <li className="mb-2"><Linkedin size={25} /></li>
                <li><Telephone size={25} /> 438 390 6735</li>
