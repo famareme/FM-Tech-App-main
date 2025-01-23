@@ -12,7 +12,7 @@ const About = () => {
          </div>
          <div className="col-sm-6">
        <p>
-       Créée depuis 2016,  FM-Tech Inc.,  est   une entreprise technologique qui ore  une large gamme de services web. 
+       Créée depuis 2016,  FM-Tech,  est   une entreprise technologique qui ore  une large gamme de services web. 
        Une équipe de professionnels du web expérimentée et dévouée à la tache travaille à la création de solutions web personnalisées 
        pour  permettre  à   ses   clients   (tous   secteurs   confondus)   d’atteindre   leurs   objectifs.   
        Et quand nous disons clients, nous le pensons vraiment !</p><p>
